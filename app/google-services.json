@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "411837657998",
+    "firebase_url": "https://sakeny-shokran.firebaseio.com",
+    "project_id": "sakeny-shokran",
+    "storage_bucket": "sakeny-shokran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411837657998:android:65f839a4892f6fc25baadf",
+        "android_client_info": {
+          "package_name": "com.snonosystems.sakeny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411837657998-bramp2d3svgtnksq9lo3ius4vo3hoeou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snonosystems.sakeny",
+            "certificate_hash": "654681a0efe87b50ac3aab2d0ca5713cd7135a36"
+          }
+        },
+        {
+          "client_id": "411837657998-e81c3a6m7trce44lqaptisrg906cgr22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snonosystems.sakeny",
+            "certificate_hash": "5ca8f05fe62b2f81b23e43afe4f0a245f5056fe0"
+          }
+        },
+        {
+          "client_id": "411837657998-7es06jqsgh2r5uoictc8qrk32lv73due.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6jQmxNhNkSDRzmlhSuqhmt7Fgihx5G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411837657998-7es06jqsgh2r5uoictc8qrk32lv73due.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411837657998:android:7d2851a31b1979705baadf",
+        "android_client_info": {
+          "package_name": "com.snonosystems.sakenyshokran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411837657998-72mgvp8dbla7hq4iudm03dlegb6kpnd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snonosystems.sakenyshokran",
+            "certificate_hash": "5ca8f05fe62b2f81b23e43afe4f0a245f5056fe0"
+          }
+        },
+        {
+          "client_id": "411837657998-7es06jqsgh2r5uoictc8qrk32lv73due.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6jQmxNhNkSDRzmlhSuqhmt7Fgihx5G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411837657998-7es06jqsgh2r5uoictc8qrk32lv73due.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
